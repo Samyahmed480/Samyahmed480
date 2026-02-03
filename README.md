@@ -65,8 +65,8 @@ class SamyAhmed {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samy-Ahmed&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samy-Ahmed&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Samyahmed480&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samyahmed480&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
 </div>
 
 ---
@@ -76,14 +76,5 @@ class SamyAhmed {
 If you'd like to collaborate on a project or just say hi, feel free to reach out!
 
 - 🌐 **Portfolio Website:** [samy-ahmed.site](https://samy-ahmed.site/)
-- 📧 **Email:** [contact@samy-ahmed.site](mailto:contact@samy-ahmed.site)
+- 📧 **Email:** [contact@samy-ahmed.site](mailto:samyyty2007@gmail.com)
 
----
-
-## ⚡️ My Philosophy
-
-> **"Programming isn't just about writing code; it's about solving problems efficiently."**
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Samy-Ahmed&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-</div>
