@@ -65,7 +65,7 @@ class SamyAhmed {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samyahmed480&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" width="48%" />
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samyahmed480&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
 </div>
 
