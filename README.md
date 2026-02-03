@@ -76,5 +76,5 @@ class SamyAhmed {
 If you'd like to collaborate on a project or just say hi, feel free to reach out!
 
 - 🌐 **Portfolio Website:** [samy-ahmed.site](https://samy-ahmed.site/)
-- 📧 **Email:** [contact@samy-ahmed.site](mailto:samyyty2007@gmail.com)
+- 📧 **Email:** [samyyty2007@gmail.com](mailto:samyyty2007@gmail.com)
 
