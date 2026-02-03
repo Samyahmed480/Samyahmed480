@@ -11,7 +11,7 @@
   </p>
 
   <p align="center">
-    <a href="mailto:contact@samy-ahmed.site"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="mailto:samyyty2007@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://samy-ahmed.site/"><img src="https://img.shields.io/badge/Website-samy--ahmed.site-58a6ff?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
     <a href="https://github.com/Samy-Ahmed"><img src="https://img.shields.io/badge/GitHub-Samy--Ahmed-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   </p>
